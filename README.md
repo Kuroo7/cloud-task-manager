@@ -32,9 +32,9 @@ A simple and elegant **CRUD web application** built using **Python (Flask)** and
     <td>Update Task</td>
   </tr>
   <tr>
-    <td><img src="screenshots/home.png" width="300"/></td>
-    <td><img src="screenshots/add.png" width="300"/></td>
-    <td><img src="screenshots/update.png" width="300"/></td>
+    <td><img src="/screenshots/home.png" width="300"/></td>
+    <td><img src="/screenshots/add.png" width="300"/></td>
+    <td><img src="/screenshots/update.png" width="300"/></td>
   </tr>
 </table>
 
